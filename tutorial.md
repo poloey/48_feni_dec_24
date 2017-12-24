@@ -55,9 +55,9 @@ you will host your website inside filemanager >  public_html
 
 
 ### credential
-database name: uph43cli_feni
-database user: uph43cli_sumon
-database password: topuph43.?
+database name: your created database name
+database user: your database username
+database password: your database password
 
 #### how to install wordpress in manually cpanel
 
